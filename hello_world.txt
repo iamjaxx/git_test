@@ -1,0 +1,1 @@
+Writing text inside of this document to help further the fundementals of version changes, staging, committing, and status checking of files using git and GitHub.
